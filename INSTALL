@@ -1,9 +1,9 @@
-Building FooCoin
+Building Prime33
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building Prime33-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of Prime33.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building Prime33,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of Prime33.
