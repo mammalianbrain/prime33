@@ -1,3 +1,3 @@
 Prime33 (P33)
 
-Blah, blah, blah.
+P33 is a Scrypt Crypto-Currency!
